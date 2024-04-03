@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/ayman",
+    PUBLIC_URL: "/ayman",
     output: "export",
 }
 
