@@ -2,7 +2,7 @@
   "name": "vymn",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vymn.github.io/ayman",
+  "homepage": "https://vymn.github.io/ayman/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
