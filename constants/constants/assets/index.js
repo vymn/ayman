@@ -44,7 +44,6 @@ import architects from "./m11architects.png";
 import aptusfasteners from "./aptusfasteners.png";
 import Noorulquran from "./Noorulquran.png";
 import CokeStore from "./CokeStore.png";
-import ToBuysList from "./ToBuysList.png";
 import FoodApp from "./FoodApp.jpg";
 import nctrlogo from "./nctrlogo.svg";
 
@@ -84,7 +83,6 @@ export {
   FoodApp,
   jindalfoams,
   architects,
-  ToBuysList,
   CokeStore,
   Noorulquran,
   whatsapp,
