@@ -214,31 +214,7 @@ const projects = [
         image: CokeStore,
         source_code_link: "https://cokestoreapp.mohammedarshad.com",
     },
-    {
-        name: "TO-BUYs List App",
-        description:
-            "A Basic To-Buys Listing WebApp that lists all the items and saves in the browser with the local storage. Made using HTML, CSS and Vanilla JavaScript",
-        tags: [
-            {
-                name: "HTML",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "Css",
-                color: "green-text-gradient",
-            },
-            {
-                name: "JavaSCript",
-                color: "pink-text-gradient",
-            },
-            {
-                name: "WebApp",
-                color: "green-text-gradient",
-            },
-        ],
-        image: ToBuysList,
-        source_code_link: "https://github.com/iamkingarsh/TO-BUYs-List-App",
-    },
+    
     {
         name: "M11 Architects",
         description:
